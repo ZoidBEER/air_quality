@@ -7,8 +7,8 @@ Data source: [World Air Quality Index project](aqicn.org)
 
 ### Notebooks description
 
-`compare.ipynb` contains the air quality comparison analysis  
-`compare-heterogeneous.ipynb` - an exersice on untrustworthy data
+* `compare.ipynb` - the air quality comparison analysis  
+* `compare-heterogeneous.ipynb` - an exersice on untrustworthy data
 
 ### Results
 
